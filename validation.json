@@ -1,0 +1,35 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "atlas": [
+    1536,
+    2288
+  ],
+  "cell": [
+    192,
+    208
+  ],
+  "frame_counts": [
+    6,
+    8,
+    8,
+    4,
+    5,
+    8,
+    6,
+    6,
+    6,
+    8,
+    8
+  ],
+  "required_cells": 73,
+  "repaired_cells": 67,
+  "reused_approved_idle_cells": 6,
+  "lossless_roundtrip_exact": true,
+  "transparent_rgb_residue": 0,
+  "unused_cells_empty": true,
+  "visual_qa": "pass",
+  "native_selection_and_normal_display_confirmed": true,
+  "all_native_animation_states_observed": false,
+  "sprite_sha256": "ab3d58cd6f6a5819a6b7aade017c88f370726bb370123c670bedb89da3262ae4"
+}
